@@ -21,7 +21,7 @@ for i in range (1, N-1):
         break
 
 if flag==1: 
-    print(0)
+    print("Не прогрессия")
 if flag==0: 
     print("Разность прогрессии", d)
 
