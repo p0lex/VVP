@@ -15,4 +15,4 @@ for i in range (N-1):
         num=i
         
 
-print("Позиция:",num-1)
+print("Позиция:",num)
